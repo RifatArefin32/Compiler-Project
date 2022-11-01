@@ -1,0 +1,51 @@
+Fun funame(a, b, c):Int
+    Do something
+    Nf
+
+
+#THis is the start of code
+/# THis is an example of
+multiple line comment
+#/
+
+Start :
+
+Int x = 5
+String y = 10
+x = x + y
+
+Read (x)
+Print (x)
+
+If x == 10
+    Do something
+    Fi
+Elif y > 10
+    Do something
+    Fe
+Otherwise
+    Do something
+    Eo
+
+For x from 1 to a
+    Do something
+    Do something
+    FE
+
+While x == 5
+    Do something
+    WE
+
+
+Sine(x)
+Cosine(x)
+Tangent(x)
+Ln(x)
+Log10(x)
+Log2(x)
+Inc x
+Dec x
+Max(x, y)
+Min(x, y)
+Pow(x, 2)
+Facto(4)

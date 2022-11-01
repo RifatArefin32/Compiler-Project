@@ -1,0 +1,28 @@
+User defined Function found
+This is single line comment
+This is multiple line comment
+start() found
+INT found
+Assignment found
+STRING found
+Assignment found
+Binary Operation : x = x + y
+READ found
+PRINT found
+If found
+Else If found
+Otherwise found
+For loop found
+While loop found
+SIN found
+COS found
+TAN found
+LN found
+LOG10 found
+LOG2 found
+INC found
+DEC found
+MAX found
+MIN found
+POWER found
+FACTORIAL found
