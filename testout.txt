@@ -1,0 +1,105 @@
+Header file detected.
+
+Single line comment detected
+
+Multiple line comment detected
+
+Return type: Integer
+type: Integer
+Valid declaration
+Variable name--> x
+function1 Function detected...!! 
+
+Valid function declaration
+Function name: function1
+Return type: 1
+Total number of functions: 1
+
+
+type: Float
+Valid declaration
+Variable name--> a
+type: Integer
+Valid declaration
+Variable name--> b
+type: Character
+Valid declaration
+Variable name--> c
+type: String
+Valid declaration
+Variable name--> d
+Variable value--> 123.000000
+Variable value--> 123
+Variable value--> M
+Variable value--> "Bangladesh"
+Multiple line comment detected
+
+[function1] Function is called
+
+Variable value--> 1.000000
+Variable value--> 3
+Print Variable name: b, Value: 3
+type: Integer
+Valid declaration
+Variable name--> x1
+Variable value--> 5
+Power function value: 32 
+
+Variable value--> 32.000000
+Variable value--> 125
+The types should be in integer form.
+
+1
+Factorial of 3 is 6
+type: Float
+Valid declaration
+Variable name--> p
+Valid declaration
+Variable name--> q
+Variable value--> 16.799999
+Variable value--> 18.900000
+Max value is--> 18.900000
+Min value is--> 16.799999
+Max value is--> 13.000000
+Min value is--> 12.000000
+type: Integer
+Valid declaration
+Variable name--> p1
+Valid declaration
+Variable name--> q1
+Variable value--> 5
+Variable value--> 6
+Max value is--> 6
+Min value is--> 5
+Print Variable name: p, Value: 16.799999
+Print Variable name: q, Value: 18.900000
+ELSE condition is detected
+IF condition detected
+IF condition is true
+Print Variable name: b, Value: 3
+Print Variable name: b, Value: 3
+ELIF condition detected
+ELIF condition false
+Print Variable name: b, Value: 3
+ELSE condition is detected
+IF condition detected
+IF condition is true
+Print Variable name: a, Value: 32.000000
+For loop detectedvalue of looping: 0
+value of looping: 1
+value of looping: 2
+value of looping: 3
+value of looping: 4
+value of looping: 5
+
+Print Variable name: a, Value: 32.000000
+Case no--> 0
+Print Variable name: b, Value: 3
+Switch-case structure detected.
+Print Variable name: b, Value: 3
+while loop detected
+This condition is false
+
+
+Program runs successfully!!!
+

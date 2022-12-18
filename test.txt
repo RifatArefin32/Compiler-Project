@@ -1,0 +1,90 @@
+using mahim.h
+# This is first comment
+/# This is multiple
+comment
+#/
+
+Fun Int function1(){
+	Int x;
+}
+
+
+Start :
+{
+	Float a;
+	Int b;
+	Char c;
+	String d;
+	a = 123;
+	b = 123.456;
+	c = "M";
+	d = "Bangladesh";
+	/#
+	Read(a);
+	Print(a);
+	Read(b);
+	Print(b);
+	Read(c);
+	Print(c);
+	Read(d);
+	Print(d);
+	#/
+
+	a = function1();
+	b = 1 + 2;
+	Print(b);
+	Int x1;
+	x1 = 5;
+	a = Pow(2, 5);
+	Pow(x1, b);
+	CheckPrime(a);
+	CheckPrime(b);
+	Facto(b);
+	Float p, q;
+	p = 16.8;
+	q = 18.9;
+	Max(p, q);
+	Min(p, q);
+	Max(12, 13);
+	Min(12, 13);
+	Int p1, q1;
+	p1 = 5;
+	q1 = 6;
+	Max(p1, q1);
+	Min(p1, q1);
+
+	If(p<q){
+        Print(p);
+    }
+   	Otherwise{
+        Print(q);
+    }
+	If(b<10){
+        Print(b);
+    }
+    Elif(b==10){
+        Print(b);
+    }
+    Otherwise{
+        Print(b);
+    }
+
+	From a To 5 Inc 1
+    {
+        Print(a);
+    } 
+
+	Switch(z){
+		Case 1 {
+			Print(a);
+		}
+		Complementary{
+			Print(b);
+		}
+	}
+
+	While (b>10){
+		Print(b);
+	}
+
+}
